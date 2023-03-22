@@ -174,7 +174,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
-```
+
  ![mc1](https://user-images.githubusercontent.com/120623583/226964963-c58d1ad8-6060-4c32-aa3c-be26043c2f48.jpg)
  
  
@@ -191,7 +191,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![mc2](https://user-images.githubusercontent.com/120623583/226965137-8e3b204f-b78e-41fd-a563-1feafb5c563b.jpg)
 
 
-```
+
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
