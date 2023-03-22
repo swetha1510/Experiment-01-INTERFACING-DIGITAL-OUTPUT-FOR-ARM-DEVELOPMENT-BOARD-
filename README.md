@@ -79,9 +79,10 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 ##PROGRAM DEVELOPED BY:SWETHA P
 ##REGISTER NUMBER:212222100053
-```
+
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
